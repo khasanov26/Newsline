@@ -1,0 +1,8 @@
+.news-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 886px;
+  row-gap: 10px;
+}
