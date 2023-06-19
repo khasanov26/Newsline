@@ -1,3 +1,6 @@
+![image](https://github.com/khasanov26/Newsline/assets/81286016/37260955-b76e-4f7b-98cc-bfa9655fbaf1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
