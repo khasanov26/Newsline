@@ -11,7 +11,7 @@ class NewsService {
     // formData.append("messageId", 0);
     const res = await fetch(`${url}`, {
       method: "POST",
-      // headers: { "Content-Type": "multipart/form-data" },
+      headers: { "Content-Type": "multipart/form-data" },
       body: formData,
     });
 
